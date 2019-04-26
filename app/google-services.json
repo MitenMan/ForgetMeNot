@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120023645675",
+    "firebase_url": "https://forgetmenot2.firebaseio.com",
+    "project_id": "forgetmenot2",
+    "storage_bucket": "forgetmenot2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120023645675:android:293ba6317e6a4e70",
+        "android_client_info": {
+          "package_name": "com.example.forgetmenot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120023645675-43q3kmgo2e7u09pntdcp6jv4pq43b26o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forgetmenot",
+            "certificate_hash": "62e9a29abef1e6d6316c0ecc559fa23e148e3d12"
+          }
+        },
+        {
+          "client_id": "120023645675-fhcgr8ld0ps9i9salabqhf9hcgq1kf06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUH7yGWpGN7X3gg_l3ggFi6-YBOuwF08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120023645675-fhcgr8ld0ps9i9salabqhf9hcgq1kf06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Forget Me Not</string>
+    <string name="Logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="textview">TextView</string>
+    <string name="flex_your_brain_by_answering_these_general_knowledge_questions_and_brain_teasers">Flex your brain by answering these general knowledge questions and brain teasers!</string>
+    <string name="quiz">Quiz</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="continue">Continue</string>
+    <string name="navigate">navigate</string>
+    <string name="navigate">navigate</string>
+    <string name="navigate">navigate</string>
+    <string name="navigate">navigate</string>
+    <string name="music_player">Music Player</string>
+    <string name="music_is_a_very_powerful_tool_to_help_patients_recall_memories_and_emotions">Music is a very powerful tool to help patients recall memories and emotions</string>
+</resources>
